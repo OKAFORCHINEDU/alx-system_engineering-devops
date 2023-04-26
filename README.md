@@ -1,1 +1,1 @@
-This directory contains sripts tasks on shell variable expansions.
+Solution to web server project

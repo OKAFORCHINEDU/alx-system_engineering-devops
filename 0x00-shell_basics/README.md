@@ -1,1 +1,1 @@
-This is a script that prints absolute path
+THIS IS A PROJECT THAT INTRODUCES BASIC SHELL COMMANDS
